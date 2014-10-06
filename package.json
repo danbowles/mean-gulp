@@ -1,0 +1,17 @@
+{
+  "name": "mean-gulp",
+  "version": "0.0.0",
+  "description": "Simple MEAN boilerplate with Gulp",
+  "private": false,
+  "author": "Dan Bowles <daniel.bowles@gmail.com>",
+  "scripts": {
+    "start": "node server.js",
+    "test": ""
+  },
+  "dependencies": {
+    "express": "^4.9.5",
+    "mongoose": "^3.8.17",
+    "body-parser": "^1.9.0",
+    "jade": "^1.7.0"
+  }
+}

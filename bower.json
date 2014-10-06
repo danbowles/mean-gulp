@@ -1,0 +1,7 @@
+{
+  "name": "mean-gulp",
+  "description": "Simple MEAN boilerplate with Gulp",
+  "dependencies": {
+    "angular": "~1.2.26"
+  }
+}
